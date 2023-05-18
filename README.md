@@ -1,42 +1,68 @@
-# Lesson - Thinking in React & Deployment
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Lesson Objectives
+## Available Scripts
 
-By the end of this lesson, students would be able to:
+In the project directory, you can run:
 
-- Understand Single Responsibility Principle and how it works in React with Presentation/Container pattern
-- Perform a retrospective on the gym diary application via a component diagram
-- Deploy the React project to [cyclic.sh](https://cyclic.sh/)
+### `npm start`
 
-## Resources
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-- [Pre-lesson](./pre-lesson-work.md)
-- [Lesson](./lesson.md)
-- [Homework](./homework.md)
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-## Lesson Plan
+### `npm test`
 
-|Duration|Agenda|Delivery Method|Remarks|
-|-|-|-|-|
-|5 mins|Walk-in & Hook|Lecture|Intrigue students' curiosity about today's topic while giving buffer time for students who are late.|
-<<<<<<< HEAD
-|10 mins|Lesson Overview|Lecture| Show learners the end product of today's lesson on the UI|
-|30 mins|Part 1| Lecture | Single Responsibility Principle |
-|30 mins|Part 2| Code Along | Retrospection|
-|10 mins|Break| |The essence of the lesson must be delivered before this break.|
-|30 mins|Part 3| Code Along | Deploy to cyclic.sh|
-=======
-|10 mins|Lesson Overview|Lecture| Brief students how we are going to use the Git Repository for React lessons|
-|20 mins|Part 1| Lecture | Project Overview & JSX|
-|30 mins|Part 2| Code Along |Nesting Components|
-|10 mins|Break| |The essence of the lesson must be delivered before this break.|
-|30 mins|Part 3| Code Along|Passing Props|
->>>>>>> main
-|40 mins|Homework| Practice | |
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Teaching Principles:
-- Students have limited bandwidth after work. Deliver the most important part of the lesson within the first 1 hour.
-- Retention is higher when students associate new information to current knowledge, hence the importance to build a good storyline from Part 1 through Part 3.
-- Students learn better with experience. Therefore, Part 2 and 3 must involve hands-on activities to keep up the engagement.
-- Pairing students up may help them to take courage to post their questions.
-- Be comfortable with silence, let students reflect and formulate their questions during Q&A. 
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
